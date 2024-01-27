@@ -1,0 +1,13 @@
+shadow: https://drive.google.com/file/d/10SAX6u426HUBMGKD_Bz61dQVKOstSqkd/view?usp=sharing
+animus: https://drive.google.com/file/d/1-nq_f-Y4MYV0S36N4CcEkneeErJzMY_d/view?usp=sharing
+anima: https://drive.google.com/file/d/10QG51vW0txoDWGcBL-0oQhRUD-YtC_HP/view?usp=sharing
+trickster: https://drive.google.com/file/d/11BrWLWKbnKTf88X_OSohQuXr2Sxji0gz/view?usp=sharing
+parent: https://drive.google.com/file/d/10Pa1ARb6v4CmKfdYWN6s5Gev_EBAaxvb/view?usp=sharing
+persona: https://drive.google.com/file/d/11DgloIVzTSvBsipW8a6w91AoAVHn_e5R/view?usp=sharing
+child: https://drive.google.com/file/d/12yirtoFlH46ezNSzHF3kagUTib81jtGG/view?usp=sharing
+self: https://drive.google.com/file/d/12J61S3_c_ZN5njBOArBLiEIRBKYm15ZF/view?usp=sharing
+
+
+
+
+
